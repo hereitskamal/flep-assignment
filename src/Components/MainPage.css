@@ -1,0 +1,249 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.body {
+    background-color: rgb(223, 223, 223);
+    margin-left: 240px;
+    padding: 15px;
+}
+
+/* navbar */
+.navbar, .graphical-containt, .product-sell-content {
+    justify-content: space-between;
+    display: flex;
+    margin: 28px;
+    flex-wrap: wrap;
+}
+
+.navbar h4 {
+    color: #666387;
+    text-shadow: 1px 1px 10px hsl(218, 32%, 83%);
+    font-family: 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin: 4px;
+}
+
+.navbar input {
+    border: none;
+    border-radius: 10px;
+}
+
+.navbar input::placeholder {
+    color: #bbb9d3;
+    font-weight: 700;
+}
+
+.graph, .product-sell-container {
+    background-color: #fff;
+    transition: transform 0.3s;
+    height: 300px;
+    border-radius: 12px;
+    overflow: hidden;
+    padding: 20px;
+}
+
+.bar-chart {
+    position: relative;
+}
+
+.bar-chart h4 {
+    position: absolute;
+}
+
+.coustomer-container {
+    width: 300px;
+}
+
+.overview-container {
+    display: flex;
+    width: 50vw;
+    margin: 0 0 20px;
+}
+
+.overview-card {
+    width: 750px;
+    line-height: 10px;
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+}
+
+p {
+    font-weight: 600;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    color: #9895bd;
+}
+
+.overview-card select {
+    border: none;
+    width: 88px;
+    background-color: #e7e6f2;
+    padding: 6px;
+    border-radius: 5px;
+    color: #706da0;
+}
+
+h3 {
+    color: #26225c;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.product-sell-container {
+    background-color: rgb(244, 244, 244);
+    width: 100%;
+    overflow-y: scroll;
+}
+
+.content .container {
+    margin: 12px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+/* icons */
+.icon {
+    line-height: 2.3;
+    font-size: 65px;
+    text-align: center;
+    height: 130px;
+    width: 130px;
+    border-radius: 75px;
+}
+
+.earning {
+    background-color: rgb(203, 234, 223);
+    color: green;
+}
+
+.info-text {
+    width: 100px;
+    text-align: right;
+}
+
+.orders {
+    background-color: rgb(245, 217, 245);
+    color: purple;
+}
+
+.balance {
+    background-color: rgb(217, 229, 252);
+    color: rgb(0, 81, 255);
+}
+
+.sales {
+    background-color: rgb(251, 225, 239);
+    color: rgb(255, 0, 132);
+}
+
+.title {
+    font-size: 14px;
+    color: #9895bd;
+}
+
+.info p {
+    font-size: 14px;
+    color: #333;
+}
+
+.content .card {
+    background-color: #fff;
+    transition: transform 0.3s;
+    width: 240px;
+    height: 150px;
+    margin: 6px;
+    border-radius: 12px;
+    overflow: hidden;
+    padding: 16px;
+    text-align: right;
+    display: flex;
+    align-items: center;
+}
+
+.content .card h2 {
+    font-size: 21px;
+    margin: 0;
+    padding: 0;
+}
+
+.content .card p {
+    color: #706da0;
+    margin: 3px;
+}
+
+.content .card:hover, .coustomer-container:hover, .overview-container:hover, .product-sell-container:hover {
+    transform: scale(1.05);
+}
+
+.chart {
+    height: 150px;
+    width: 150px;
+    margin: 0 auto;
+}
+
+.donutchart {
+    line-height: 10px;
+}
+
+p {
+    font-weight: 600;
+    color: #9895bd;
+    font-size: smaller;
+}
+
+@media (max-width: 768px) {
+    .sidebar {
+        width: 100%;
+        position: static;
+    }
+    .product-sell-container {
+        overflow-x: scroll;
+    }
+
+    .content {
+        margin-left: 0;
+    }
+
+    .body {
+        margin-left: 0;
+    }
+
+    .overview-container {
+        width: 100%;
+    }
+}
+
+@media (max-width: 1500px) {
+    .sidebar {
+        width: auto;
+        position: static;
+    }
+
+    .overview-container {
+        width: 100%;
+        overflow-x: scroll;
+    }
+
+    .graphical-containt {
+        justify-content: center;
+    }
+
+    .content {
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 1020px) {
+    .overview-container {
+        width: 100%;
+    }
+
+    .overview-card {
+        width: 75vw;
+    }
+}

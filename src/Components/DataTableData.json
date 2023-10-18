@@ -1,0 +1,136 @@
+[
+	{
+	  "productName": "Radiant Skin Elixir",
+	  "description": "Revitalize your complexion with our Radiant Skin Elixir. This luxurious serum is packed with natural antioxidants and hydrating ingredients to give you a radiant, youthful glow.",
+	  "stock": "25 in stock",
+	  "price": "$59.99",
+	  "totalSales": "15"
+	},
+	{
+	  "productName": "Lush Lip Plumper",
+	  "description": "Achieve plump, luscious lips with our Lush Lip Plumper. This formula enhances your lips' natural beauty, leaving them fuller and irresistibly kissable.",
+	  "stock": "18 in stock",
+	  "price": "$29.99",
+	  "totalSales": "12"
+	},
+	{
+	  "productName": "Silky Hair Serum",
+	  "description": "Transform your locks with our Silky Hair Serum. This lightweight, non-greasy formula tames frizz, adds shine, and protects your hair from heat damage.",
+	  "stock": "30 in stock",
+	  "price": "$34.99",
+	  "totalSales": "20"
+	},
+	{
+	  "productName": "Rose Petal Toner",
+	  "description": "Refresh and balance your skin with our Rose Petal Toner. Infused with pure rose extract, it soothes, hydrates, and minimizes pores for a flawless complexion.",
+	  "stock": "27 in stock",
+	  "price": "$19.99",
+	  "totalSales": "17"
+	},
+	{
+	  "productName": "Golden Sun-Kissed Bronzer",
+	  "description": "Get a sun-kissed glow all year round with our Golden Sun-Kissed Bronzer. This finely milled powder provides a natural, healthy radiance for a beachy, bronzed look.",
+	  "stock": "22 in stock",
+	  "price": "$27.50",
+	  "totalSales": "10"
+	},
+	{
+	  "productName": "Hydrating Cucumber Mask",
+	  "description": "Treat your skin to a spa day with our Hydrating Cucumber Mask. Packed with cucumber extract, it replenishes moisture, soothes, and rejuvenates tired skin.",
+	  "stock": "15 in stock",
+	  "price": "$24.99",
+	  "totalSales": "9"
+	},
+	{
+	  "productName": "Youthful Eye Serum",
+	  "description": "Turn back the clock with our Youthful Eye Serum. This powerful serum reduces the appearance of fine lines and dark circles, leaving your eyes looking brighter and more youthful.",
+	  "stock": "20 in stock",
+	  "price": "$39.99",
+	  "totalSales": "14"
+	},
+	{
+	  "productName": "Luxurious Lavender Bath Oil",
+	  "description": "Indulge in a spa-like experience with our Luxurious Lavender Bath Oil. This blend of essential oils transforms your bath into a soothing oasis, leaving your skin soft and relaxed.",
+	  "stock": "14 in stock",
+	  "price": "$49.50",
+	  "totalSales": "8"
+	},
+	{
+	  "productName": "Natural Mineral Foundation",
+	  "description": "Achieve a flawless complexion with our Natural Mineral Foundation. This lightweight powder provides buildable coverage while letting your skin breathe naturally.",
+	  "stock": "12 in stock",
+	  "price": "$34.99",
+	  "totalSales": "11"
+	},
+	{
+	  "productName": "Nourishing Argan Oil Shampoo",
+	  "description": "Restore your hair's shine and vitality with our Nourishing Argan Oil Shampoo. This sulfate-free formula gently cleanses and nourishes, leaving your hair silky and manageable.",
+	  "stock": "17 in stock",
+	  "price": "$21.99",
+	  "totalSales": "13"
+	},
+	{
+	  "productName": "Fruit-Infused Facial Scrub",
+	  "description": "Get glowing skin with our Fruit-Infused Facial Scrub. This exfoliating scrub is enriched with natural fruit extracts to remove dead skin cells and reveal a brighter complexion.",
+	  "stock": "28 in stock",
+	  "price": "$17.99",
+	  "totalSales": "19"
+	},
+	{
+	  "productName": "Satin Smooth Lip Balm",
+	  "description": "Keep your lips soft and supple with our Satin Smooth Lip Balm. This nourishing balm hydrates and protects, ensuring your lips always feel silky and comfortable.",
+	  "stock": "32 in stock",
+	  "price": "$8.99",
+	  "totalSales": "22"
+	},
+	{
+	  "productName": "Floral Bliss Perfume",
+	  "description": "Embrace the enchanting scent of our Floral Bliss Perfume. This fragrance captures the essence of blooming flowers, leaving a trail of floral elegance wherever you go.",
+	  "stock": "24 in stock",
+	  "price": "$44.99",
+	  "totalSales": "16"
+	},
+	{
+	  "productName": "Pearlescent Nail Polish",
+	  "description": "Adorn your nails with our Pearlescent Nail Polish. The unique pearl-like finish adds a touch of elegance to your manicure, making your nails truly stand out.",
+	  "stock": "21 in stock",
+	  "price": "$12.99",
+	  "totalSales": "10"
+	},
+	{
+	  "productName": "Exotic Jasmine Body Wash",
+	  "description": "Elevate your shower experience with our Exotic Jasmine Body Wash. The intoxicating scent of jasmine and the gentle cleansing formula leave your skin feeling refreshed and revitalized.",
+	  "stock": "23 in stock",
+	  "price": "$16.99",
+	  "totalSales": "18"
+	},
+	{
+	  "productName": "Glowing Pearl Face Mask",
+	  "description": "Enhance your skin's radiance with our Glowing Pearl Face Mask. This luxurious mask with pearl extract rejuvenates your skin, leaving it luminous and rejuvenated.",
+	  "stock": "19 in stock",
+	  "price": "$29.99",
+	  "totalSales": "13"
+	},
+	{
+	  "productName": "Botanical Rose Hair Spray",
+	  "description": "Style your hair with our Botanical Rose Hair Spray. This formula holds your style in place while imparting the delicate scent of roses, keeping your hair fresh and beautiful.",
+	  "stock": "26 in stock",
+	  "price": "$19.99",
+	  "totalSales": "15"
+	},
+	{
+	  "productName": "Revitalizing Seaweed Scrub",
+	  "description": "Pamper your body with our Revitalizing Seaweed Scrub. Packed with sea minerals, this scrub exfoliates and detoxifies, leaving your skin revitalized and refreshed.",
+	  "stock": "16 in stock",
+	  "price": "$31.99",
+	  "totalSales": "11"
+	},
+	{
+	  "productName": "Elegant Orchid Perfume",
+	  "description": "Adorn yourself with the enchanting scent of our Elegant Orchid Perfume. This fragrance captures the elegance of orchid blossoms, leaving a lasting, sophisticated impression.",
+	  "stock": "29 in stock",
+	  "price": "$54.99",
+	  "totalSales": "20"
+	}
+  ]
+  
